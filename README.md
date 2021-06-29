@@ -17,3 +17,6 @@ To get started with Svelte, along with [Serverless Functions](https://vercel.com
 ```shell
 $ npx degit sveltejs/template my-svelte-project
 ```
+# Abe Memo
+* APIが機能しない。。。なぜ？
+* TypeScriptの導入がReactに比べるとよくわからない？？
